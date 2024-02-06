@@ -27,6 +27,11 @@ Baixe o script:
 git clone https://github.com/zxwellzika/Acessarvpspeloandroid.git
 
 Vá para a pasta de scripts: cd acessarvpspeloandroid
-Dê permissão de Deus execução: chmod +x ubuntu.sh
-Execute o script: ./ubuntu.sh -y
+
+Dê permissão de execução: 
+chmod +x ubuntu.sh
+
+Execute o script: 
+./ubuntu.sh -y
+
 Agora é só iniciar o Ubuntu: ./startubuntu.sh
