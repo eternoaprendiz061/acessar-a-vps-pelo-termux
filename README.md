@@ -12,6 +12,9 @@ Etapas de instalação
 Atualizar termux: 
 apt-get update && apt-get upgrade -y
 
+instale o tsu:
+Pkg install tsu
+
 Instale o wget: 
 apt-get install wget -y
 
