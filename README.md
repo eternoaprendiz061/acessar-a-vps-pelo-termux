@@ -38,3 +38,17 @@ Execute o script:
 ./ubuntu.sh -y
 
 Agora é só iniciar o Ubuntu: ./startubuntu.sh
+
+continue com:
+apt update
+
+instale o ssh:
+apt install ssh
+
+inicie o ssh:
+service ssh start
+
+agora acesse sua vps com:
+Ssh root@ipdavps -porta 
+
+substitua o "ipdavps" depois do @, pelo ip da sua vps, depois dê um espaço e coloque - e a porta, normalmente a porta é 22 então fica o exemplo: Ssh root@123.456.789 -22
